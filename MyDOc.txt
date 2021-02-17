@@ -1,8 +1,9 @@
 I am first mayanak
 
 this is 2nd mayank
-
-this is 2nd mayank
 I am in newbranch
 I am developing signup feature
+
+
+I am for merge
 
